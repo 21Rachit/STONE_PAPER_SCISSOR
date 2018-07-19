@@ -1,0 +1,3 @@
+# TIC_TAC_TOE_GAME
+SIMPLE ANDROID TIC TAC TOE Game...
+Hello Friends Just a humble request.It is advisable to open this game app on your android phones (instead of online emulators) for smooth functioning of the game 
