@@ -1,3 +1,2 @@
 #STONE_PAPER_SCISSOR GAME
-SIMPLE ANDROID Game...
-Hello Friends Just a humble request.It is advisable to open this game app on your android phones (instead of online emulators) for smooth functioning of the game 
+Hello Friends this is my first android app.It is advisable to open this game app on your android phones (instead of online emulators) for smooth functioning of the game 
